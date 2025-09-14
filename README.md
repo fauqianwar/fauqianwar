@@ -4,7 +4,7 @@
 🔬 Passionate about biomedical devices, IoT, and healthcare technology  
 
 ## 🔧 Skills
-- Programming: Python, MATLAB, Arduino, C  
+- Programming: Arduino, C, C++
 - Hardware: Arduino, esp32, sensor integration  
 - Software: Design Spark, Proteus, Fusion 360, Easyeda 
 - Medical focus: Biomedical instrumentation, circuit simulation, circuit design, pcb design 
