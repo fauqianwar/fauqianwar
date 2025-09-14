@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Fauqi Anwar  
 
-<!--
-**fauqianwar/fauqianwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma Student in Electromedical Engineering (expected graduation 2026)  
+🔬 Passionate about biomedical devices, IoT, and healthcare technology  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming: Python, MATLAB, Arduino, C  
+- Hardware: Arduino, esp32, sensor integration  
+- Software: Design Spark, Proteus, Fusion 360, Easyeda 
+- Medical focus: Biomedical instrumentation, circuit simulation, circuit design, pcb design 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [Infant Warmer Simulation](https://github.com/fauqianwar/infant-warmer)  
+  *Temperature-controlled system for neonatal care (op-amp + sensors)*  
+- [IoT-Based Electrical Load Monitoring](https://github.com/fauqianwar/ecg-analysis)  
+  *Python-based ECG filtering and heart rate analysis*    
+
+## 🌐 Connect with me
+- LinkedIn: https://www.linkedin.com/in/fauqi-anwar-baihaqi-878645381/  
+- Email: fanwarbaihaqi2021@gmail.com  
+
+---
+⚡ *"Engineering health through technology."*
