@@ -10,8 +10,8 @@
 - Medical focus: Biomedical instrumentation, circuit simulation, circuit design, pcb design 
 
 ## 📂 Projects
-- [Infant Warmer Simulation](https://github.com/fauqianwar/infant-warmer)  
-  *Temperature-controlled system for neonatal care (op-amp + sensors)*  
+- [Infant Warmer Simulation](https://github.com/fauqianwar/infant-warmer-simulation)  
+  *Temperature-controlled system for infant warmer (op-amp + sensors)*  
 - [IoT-Based Electrical Load Monitoring](https://github.com/fauqianwar/ecg-analysis)  
   *Internet of Things (IoT)-based electrical load monitoring project with esp32 and PZEM sensor.*    
 
