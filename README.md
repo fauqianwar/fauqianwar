@@ -18,6 +18,3 @@
 ## 🌐 Connect with me
 - LinkedIn: https://www.linkedin.com/in/fauqi-anwar-baihaqi-878645381/  
 - Email: fanwarbaihaqi2021@gmail.com  
-
----
-⚡ *"Engineering health through technology."*
