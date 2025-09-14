@@ -13,7 +13,7 @@
 - [Infant Warmer Simulation](https://github.com/fauqianwar/infant-warmer)  
   *Temperature-controlled system for neonatal care (op-amp + sensors)*  
 - [IoT-Based Electrical Load Monitoring](https://github.com/fauqianwar/ecg-analysis)  
-  *Python-based ECG filtering and heart rate analysis*    
+  *Internet of Things (IoT)-based electrical load monitoring project with esp32 and PZEM sensor.*    
 
 ## 🌐 Connect with me
 - LinkedIn: https://www.linkedin.com/in/fauqi-anwar-baihaqi-878645381/  
